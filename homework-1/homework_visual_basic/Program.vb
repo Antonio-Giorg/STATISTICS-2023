@@ -8,23 +8,21 @@ Module Module1
         Using bitmap As New Bitmap(width, height)
             ' Creare un oggetto Graphics dall'immagine
             Using g As Graphics = Graphics.FromImage(bitmap)
-                ' Disegnare un punto rosso alle coordinate (50, 50)
+                ' Disegno un punto rosso 
                 g.FillEllipse(Brushes.Red, 50, 50, 10, 10)
 
-                ' Disegnare una linea blu dalle coordinate (100, 100) a (200, 200)
+                ' Disegno una linea blu 
                 g.DrawLine(Pens.Blue, 100, 100, 200, 200)
 
-                ' Disegnare un rettangolo verde con angolo in alto a sinistra alle coordinate (250, 100)
-                ' e larghezza 100 e altezza 50
+                ' Disegno un rettangolo verde 
                 g.FillRectangle(Brushes.Green, 250, 100, 100, 50)
 
-                ' Disegnare un cerchio arancione con centro alle coordinate (400, 150)
-                ' e raggio 50
+                ' Disegno un cerchio arancione
                 g.FillEllipse(Brushes.Orange, 350, 100, 100, 100)
             End Using
 
-            ' Salvare l'immagine in un file (puoi anche visualizzarla o utilizzarla come desideri)
-            bitmap.Save("D:\\magistrale\\statistics\\output_visual_basic.png")
+            ' Salvare l'immagine in un file 
+            bitmap.Save("C:\\output_visual_basic.png")
         End Using
     End Sub
 End Module
