@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABuFPRhKDrmPgQhYC8XpHtJoei99rqtchIDUxe5dPooTF3LUR3NxMEHYT1B1OK2ZjyVVbnHjjoggpzDwfda4iw==",
+  "success": true,
+  "projectFilePath": "D:\\magistrale\\statistics\\homework-1\\homework_visual_basic\\homework_visual_basic.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giorg\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\giorg\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
