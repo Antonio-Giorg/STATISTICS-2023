@@ -17,10 +17,11 @@
         var canvas = document.getElementById("myCanvas");
         var ctx = canvas.getContext("2d");
 
+        // Disegna il punto
         ctx.fillStyle = "red";
         ctx.fillRect(50, 50, 1, 1);
 
-        // Disegna una linea blu dalle coordinate (100, 100) a (200, 200)
+        // Disegna una linea 
         ctx.beginPath();
         ctx.moveTo(100, 100);
         ctx.lineTo(200, 200);
@@ -28,11 +29,11 @@
         ctx.lineWidth = 3;
         ctx.stroke();
 
+        // Disegna un rettangolo
         ctx.fillStyle = "green";
         ctx.fillRect(250, 100, 100, 50);
 
-        // Disegna un cerchio arancione con centro alle coordinate (400, 150)
-        // e raggio 50
+        // Disegna un cerchio 
         ctx.beginPath();
         ctx.arc(400, 150, 50, 0, 2 * Math.PI);
         ctx.strokeStyle = "orange";
