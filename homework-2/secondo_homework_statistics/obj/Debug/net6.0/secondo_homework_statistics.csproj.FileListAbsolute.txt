@@ -1,0 +1,15 @@
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\bin\Debug\net6.0\secondo_homework_statistics.exe
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\bin\Debug\net6.0\secondo_homework_statistics.deps.json
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\bin\Debug\net6.0\secondo_homework_statistics.runtimeconfig.json
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\bin\Debug\net6.0\secondo_homework_statistics.dll
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\bin\Debug\net6.0\secondo_homework_statistics.pdb
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.csproj.AssemblyReference.cache
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.AssemblyInfoInputs.cache
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.AssemblyInfo.cs
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.csproj.CoreCompileInputs.cache
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.dll
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\refint\secondo_homework_statistics.dll
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.pdb
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\secondo_homework_statistics.genruntimeconfig.cache
+D:\magistrale\statistics\homework-2\secondo_homework_statistics\obj\Debug\net6.0\ref\secondo_homework_statistics.dll

@@ -1,0 +1,15 @@
+D:\magistrale\statistics\homework-2\uniform_distribution\bin\Debug\net6.0\uniform_distribution.exe
+D:\magistrale\statistics\homework-2\uniform_distribution\bin\Debug\net6.0\uniform_distribution.deps.json
+D:\magistrale\statistics\homework-2\uniform_distribution\bin\Debug\net6.0\uniform_distribution.runtimeconfig.json
+D:\magistrale\statistics\homework-2\uniform_distribution\bin\Debug\net6.0\uniform_distribution.dll
+D:\magistrale\statistics\homework-2\uniform_distribution\bin\Debug\net6.0\uniform_distribution.pdb
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.csproj.AssemblyReference.cache
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.GeneratedMSBuildEditorConfig.editorconfig
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.AssemblyInfoInputs.cache
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.AssemblyInfo.cs
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.csproj.CoreCompileInputs.cache
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.dll
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\refint\uniform_distribution.dll
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.pdb
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\uniform_distribution.genruntimeconfig.cache
+D:\magistrale\statistics\homework-2\uniform_distribution\obj\Debug\net6.0\ref\uniform_distribution.dll
